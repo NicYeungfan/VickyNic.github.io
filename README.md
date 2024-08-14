@@ -10,7 +10,7 @@ love
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            background-color: #f4f4f4;
+            background-color: #ffb6c1; /* Love color background */
             color: #333;
             margin: 0;
             padding: 20px;
@@ -25,12 +25,21 @@ love
             justify-content: space-between;
         }
         .image-container img {
-            width: calc(33.333% - 10px); /* Make each image take up 1/3 of the container minus the gap */
+            width: calc(33.333% - 10px); /* Each image takes up 1/3 of the row */
             height: auto;
             border: 1px solid #ddd;
             border-radius: 4px;
             padding: 5px;
             background-color: white;
+        }
+        .links {
+            margin-top: 20px;
+        }
+        .links a {
+            color: #005b96;
+            text-decoration: none;
+            font-weight: bold;
+            margin-right: 10px;
         }
     </style>
 </head>
@@ -40,8 +49,21 @@ love
     <div class="image-container">
         <img src="DSC01703.JPG" alt="Image 1" />
         <img src="DSC01704.JPG" alt="Image 2" />
-        <img src="DSC01722.JPG" alt="Image 3" />
+        <img src="DSC01705.JPG" alt="Image 3" />
+        <img src="DSC01706.JPG" alt="Image 4" />
+        <img src="DSC01707.JPG" alt="Image 5" />
+        <img src="DSC01708.JPG" alt="Image 6" />
+        <img src="DSC01722.JPG" alt="Image 7" />
+        <img src="_D4W5781.jpg" alt="Image 8" />
+        <img src="_D4W5789.jpg" alt="Image 9" />
+        <img src="_D4W5803.jpg" alt="Image 10" />
+        <img src="_D4W5815.jpg" alt="Image 11" />
     </div>
 
+    <div class="links">
+        <a href="https://nicyeungfan.github.io/vickyme.github.io/">Confirmation</a>
+        <a href="https://nicyeungfan.github.io/vickyme.github.io/">Dragonbacks</a>
+    </div>
 </body>
 </html>
+
