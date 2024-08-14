@@ -54,10 +54,8 @@ love
         <img src="DSC01707.JPG" alt="Image 5" />
         <img src="DSC01708.JPG" alt="Image 6" />
         <img src="DSC01722.JPG" alt="Image 7" />
-        <img src="_D4W5781.jpg" alt="Image 8" />
-        <img src="_D4W5789.jpg" alt="Image 9" />
-        <img src="_D4W5803.jpg" alt="Image 10" />
-        <img src="_D4W5815.jpg" alt="Image 11" />
+        <img src="Han2.jpg" alt="Image 8" />
+        <img src="ImageHan1.jpg" alt="Image 9" />
     </div>
 
     <div class="links">
@@ -66,4 +64,3 @@ love
     </div>
 </body>
 </html>
-
